@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PremiuMagnet</string>
+    <string name="premiumize_api_key">Premiumize API Key</string>
+    <string name="save">Save</string>
+</resources>
