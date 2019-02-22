@@ -1,3 +1,3 @@
 # PremiuMagnet
 
-This App directly redirects Magnetliks to your Premiumize.me account
+This App redirects Magnet links into your Premiumize.me cloud
